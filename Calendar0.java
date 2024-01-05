@@ -40,4 +40,3 @@ public class Calendar0 {
 		return 0;
 	}
 }
-
